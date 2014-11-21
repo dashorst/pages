@@ -1,6 +1,11 @@
 ---
 title: This is my title
-layout: post
 ---
 
-Here is my page.
+# This is my title
+
+Some content
+
+## Here is my page.
+
+Some more content.
